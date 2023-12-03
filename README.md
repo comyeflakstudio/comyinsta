@@ -1,2 +1,2 @@
-# comyinsta
+# Comy Instagram
 Comy Instagram
